@@ -3,4 +3,4 @@
 <br />
 I am a web developer and the programming technologies I use are 
 <br />
-<code><img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" ></code>
+<code><img src="https://img.icons8.com/?size=100&id=YWDsCjL0c2qv&format=png&color=000000" ></code>
