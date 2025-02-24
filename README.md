@@ -1,4 +1,4 @@
-## Hi I'm Sukhrob Safarov <img src="https://media0.giphy.com/media/l1IB22SuYeEMMPTguL/200.webp?cid=ecf05e47rwascb85t2grjl27u3h34izon6zngq2e56rc8kpx&ep=v1_gifs_related&rid=200.webp&ct=g" whith="50px" >
+## Hi I'm Sukhrob Safarov <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm11dDU3anRyY292MXZkdHdzdWowc3Fnc2ZsZHJ6enRqeGttdDgybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" whith="30px" >
 
 <!--
 **SafarovS/SafarovS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
